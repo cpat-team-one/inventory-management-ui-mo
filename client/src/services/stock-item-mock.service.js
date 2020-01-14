@@ -28,7 +28,7 @@ export class StockItemMockService {
         "stock": 20,
         "unitPrice": 75.5,
         "picture": "test1",
-        "manufacturer": "Sony",
+        "manufacturer": "Sony2",
       }
     ];
   }
